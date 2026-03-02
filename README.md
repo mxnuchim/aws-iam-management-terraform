@@ -1,6 +1,7 @@
 # AWS IAM User Provisioning — Terraform
 
 Automated, CSV-driven IAM user provisioning on AWS. One `terraform apply` creates users, enables console login, and sorts every user into the correct permission group based on their department and job title — no console clicking required.
+<img width="1220" height="613" alt="Screenshot 2026-03-02 at 14 01 30" src="https://github.com/user-attachments/assets/0227134b-0f96-4724-a6a8-bfb688e35a5f" />
 
 ---
 
